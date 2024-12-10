@@ -1,1 +1,2 @@
-Samue
+#!/bin/bash
+whoami
